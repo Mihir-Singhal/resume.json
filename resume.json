@@ -1,0 +1,80 @@
+{
+    "basics": {
+        "name": "Mihir Singhal",
+        "label": "Student",
+	"picture": "https://avatars.githubusercontent.com/u/76534366?v=4",
+        "email": "2020kucp1055@iiitkota.ac.in",
+        "phone": "+917300893304",
+        "summary": "I'm a student of Indian Institute of Information Technology, Kota (India), persuing my B.tech in Computer Science & engineering. Exploring fields of Cloud Computing and Data Analysis.",
+        "location": {
+            "address": "Agra",
+            "postalCode": "282005",
+            "city": "Agra",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+                {
+                "network": "Github",
+                "username": "MihirS30",
+                "url": "https://www.github.com/Mihir-Singhal"
+            },
+            {
+                "network": "linkedin",
+                "username": "Mihir Singhal",
+                "url": "https://www.linkedin.com/in/mihir-singhal-a08285202/"
+            },
+            {
+                "network": "Instagram",
+                "username": "mihir.singhal_",
+                "url": "https://www.instagram.com/mihir.singhal_/"
+            },
+			 {
+                "network": "Twitter",
+                "username": "MihirSinghal30",
+                "url": "https://twitter.com/MihirSinghal30"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++",
+				"Bootstrap",
+				"Java"
+            ]
+        }
+    ],
+
+    "interests": [
+        {
+            "name": "Technology",
+            "keywords": [
+                "Robots",
+				"AI"
+            ]
+        },
+        {
+            "name": "Sports",
+            "keywords": [
+                "Basketball",
+                "Football",
+	      	    "Athletics"
+            ]
+        }
+    ],
+    "references": []
+}
