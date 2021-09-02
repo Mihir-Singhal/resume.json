@@ -1,1 +1,1 @@
-# resume.json
+# Resume Schema.json
